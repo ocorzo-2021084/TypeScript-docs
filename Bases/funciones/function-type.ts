@@ -13,6 +13,9 @@
     myFunction = greet;
     console.log(myFunction('Tony Stark'));
 
+    myFunction = saveTheWorld;
+    console.log(myFunction());
+
 
 
 })();
