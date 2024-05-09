@@ -6,3 +6,4 @@
     const name = fullName('Tony', 'Stark', 'Avenger', 'Ironman');
     console.log({ name });
 })();
+//# sourceMappingURL=args-rest.js.map

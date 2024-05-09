@@ -11,3 +11,4 @@
         powers: ['Super fuerza', 'Volar']
     };
 })();
+//# sourceMappingURL=objects.js.map

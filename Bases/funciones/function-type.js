@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // Your code here
     const addNumbers = (a, b) => a + b;
     const greet = (name) => `Hello ${name}`;
     const saveTheWorld = () => 'The world is saved!';
@@ -12,3 +11,4 @@
     myFunction = saveTheWorld;
     console.log(myFunction());
 })();
+//# sourceMappingURL=function-type.js.map

@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // Your code here
     const hero = 'Flash';
     function returnName() {
         return hero;
@@ -10,3 +9,4 @@
     };
     console.log(typeof returnName);
 })();
+//# sourceMappingURL=functions.js.map

@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // Your code here
     let audioLevel;
     (function (audioLevel) {
         audioLevel[audioLevel["min"] = 1] = "min";
@@ -11,3 +10,4 @@
     console.log(currentAudio);
     console.log(audioLevel);
 })();
+//# sourceMappingURL=enums.js.map

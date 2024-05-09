@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // Código de la función aquí
     let avengers = 4;
     console.log(avengers);
     const villians = 5;
@@ -11,3 +10,4 @@
         console.log('We are safe');
     }
 })();
+//# sourceMappingURL=numbers.js.map

@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // Your code here
     let avenger = 123;
     let exists;
     let power;
@@ -10,3 +9,4 @@
     console.log(avenger.toFixed(2));
     console.log(exists);
 })();
+//# sourceMappingURL=any.js.map

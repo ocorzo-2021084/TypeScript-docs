@@ -1,6 +1,5 @@
 "use strict";
 (() => {
-    // Your code here
     const numbers = [1, 2, 3, '4', 5];
     const villians = ['Omega Rojo', 'Dormammu', 'Duende Verde'];
     villians.forEach(v => { console.log(v.toUpperCase()); });
@@ -9,3 +8,4 @@
     numbers.push(true);
     console.log(numbers);
 })();
+//# sourceMappingURL=arrays.js.map
