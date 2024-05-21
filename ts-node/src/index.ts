@@ -1,10 +1,15 @@
-import { getPokemon } from "./generics/get-pokemon";
+import {Pokemon} from './decorators/pokemon-class';
 
 
 
+const charmander = new Pokemon('Charmander');
 
 
-getPokemon(12)
-    .then(pokemon => console.log(pokemon.sprites.front_female))
-    .catch(err => console.log(err))
-    .finally(() => console.log('Finally'));
+// (Pokemon as any).custom = 'https://google.com';
+
+
+// charmander.savePokemonToDB(1);
+
+
+charmander.publicApiUrl = 'https://google.com';
+console.log(charmander);
